@@ -47,6 +47,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
 - Techy Girls Foundtion: [site](http://techygirls.org) · [email](mailto:geek@techygirls.org)
 - Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
+- Women and Color:[site] (https://www.womenandcolor.com) · [email](mailto:hello@womenandcolor.com)
 - Women Who Code: [site](https://www.womenwhocode.com/about) · [contact](https://www.womenwhocode.com/networks)
 - YesWeCode: [site](https://www.yeswecode.org/) · [email](mailto:info@yeswecode.org)
 
